@@ -47,7 +47,7 @@ Computer-Graphics-University-Campus/
 
 ## Screenshot
 
-![Campus](images/campus.png)
+![Static Version](images/static-output.png)
 
 ---
 
